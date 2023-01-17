@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cuonglv-cocaan
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning Data
+- 👀 I’m interested in Data Product Development
+- 🌱 I’m currently learning User Experience
 - 💞️ I’m looking to collaborate on Data Architecture, Data Science
 - 📫 How to reach me ??: 
 - Mail: lvcuong2801@gmail.com
